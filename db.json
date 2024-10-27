@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "101",
+      "content": "Add more css",
+      "status": "unstarted"
+    },
+    {
+      "id": "102",
+      "content": "Fix a bug on Render.tsx",
+      "status": 1
+    },
+    {
+      "id": "103",
+      "content": "Read JS Flanagan, finally!!!",
+      "status": 2
+    },
+    {
+      "id": "104",
+      "content": "Change theme of dark mode",
+      "status": 1
+    }
+  ]
+}
